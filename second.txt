@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 We are here for you.
+=======
+I'm for you.
+>>>>>>> dev2
